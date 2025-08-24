@@ -32,7 +32,7 @@ The simulation first calculates the number of particles for each experiment usin
 
 The final distribution of the total energy per 10-second interval is shown below:
 
-![Final Energy Distribution](Final Energy Distribution Image.png)
+![Final Energy Distribution](https://github.com/Shivam-Rathaur/Monte-Carlo-Simulation-of-a-Particle-Detector-Experiment/blob/main/Final%20Energy%20Distribution%20Image.png)
 
 ### Conclusion
 
