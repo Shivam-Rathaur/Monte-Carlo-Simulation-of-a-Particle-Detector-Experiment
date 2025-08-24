@@ -32,7 +32,7 @@ The simulation first calculates the number of particles for each experiment usin
 
 The final distribution of the total energy per 10-second interval is shown below:
 
-![Final Energy Distribution](https://i.imgur.com/39aQf1v.png)
+![Final Energy Distribution](Final Energy Distribution Image.png)
 
 ### Conclusion
 
